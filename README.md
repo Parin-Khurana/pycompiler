@@ -26,7 +26,7 @@ project/
 │── README.md 
 
 
----
+```
 
 ## 🔧 Setup & Usage
 1. Clone this repository:
