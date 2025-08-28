@@ -20,10 +20,10 @@ project/
 │── index.html
 │── assets/
 │ ├── css/
-│ │ └── style.css # Styling
+│ │ └── style.css 
 │ └── js/
-│ └── main.js # Compiler logic
-│── README.md # Documentation
+│ └── script.js 
+│── README.md 
 
 
 ---
