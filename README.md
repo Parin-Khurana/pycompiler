@@ -31,6 +31,6 @@ project/
 ## 🔧 Setup & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-compiler-pyodide.git
-   cd python-compiler-pyodide
+   git clone https://github.com/Parin-Khurana/pycompiler.git
+   cd pycompiler
 2. Open index.html in your browser (no additional setup required)
